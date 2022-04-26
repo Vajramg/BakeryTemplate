@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'vglab'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F50BB62B86A46BFBF2CD5CF7A20A8CD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6227FCA5BADE477BBCA677EE21192A30 }}
           package: .
